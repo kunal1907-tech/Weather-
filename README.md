@@ -27,8 +27,7 @@ used the thread module to click on the search button so smootly so that the app 
 
 To get the Timezone and time i have used the pytz module and timezonefinder module to get the timezone of the searched city.</br>
 
-## Sample Video:
-![weather app](https://user-images.githubusercontent.com/87264935/163821347-f988efc2-79ea-40cd-acae-e6e4d780e49e.gif)
+
 
 ## Screenshots:
 ![Empty Gui](https://user-images.githubusercontent.com/87264935/163683668-f659b80e-2ef2-4553-99d2-6f0728c7a968.png)
